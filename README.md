@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/422de0e5-77d5-4a21-8d28-d8727178daf0)# Job Market Data Cleaning & Visualization Project
+# Job Market Data Cleaning & Visualization Project
 
 This project was developed as part of the **WTM – Data & Tech in Action** sessions under the supervision of **Eng. Mawada R. Elkholy**. The goal was to analyze and visualize job market data using Python and Power BI, focusing on data cleaning, transformation, and dashboard creation.
 
